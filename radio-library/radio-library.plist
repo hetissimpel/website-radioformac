@@ -19,23 +19,6 @@
 		<key>website</key>
 		<string>https://intergalacticfm.com/intergalactic_classix.php</string>
 	</dict>
-	<key>station-99999</key>
-	<dict>
-		<key>guid</key>
-		<string>99999</string>
-		<key>name</key>
-		<string>Het is Simpel - Damien - Test</string>
-		<key>url</key>
-		<string>http://radio.intergalacticfm.com/2.m3u</string>
-		<key>desc</key>
-		<string>Electronic</string>
-		<key>country</key>
-		<string>Internet</string>
-		<key>city</key>
-		<string>Internet</string>
-		<key>website</key>
-		<string>https://intergalacticfm.com/intergalactic_classix.php</string>
-	</dict>
 	<key>station-3019</key>
 	<dict>
 		<key>guid</key>
