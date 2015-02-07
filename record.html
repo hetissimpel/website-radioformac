@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Radio for mac · How to schedule a recording using Automator and iCal</title>
+<meta name="description" content="Radio, OSX app for playing and recording streaming internet radio from your menu bar">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="shortcut icon" href="favicon.ico"/>
+<script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script type="text/javascript">
+function trackOutboundLink(link, category, action) { 
+ 
+try { 
+_gaq.push(['_trackEvent', category , action]); 
+} catch(err){}
+ 
+setTimeout(function() {
+document.location.href = link.href;
+}, 100);
+}
+</script>
+</head>
+<body id="library">
+<img class="bg" src="images/background2.jpg" width="1296" height="810" />
+<div id="oldbrowsers">You are using Internet Explorer 6 or 7. Please use a modern browser like Firefox or upgrade Internet Explorer to properly view this website [x] </div>
+<div id="wrapper">
+	<div class="container" id="top">
+		<div class="row">
+			<div class="span10 offset2" >
+				<section class="intro">
+					<div id="backhome">
+						<ul class="nav nav-pills">
+							<li><a href="/">&larr; Home</a></li>
+						</ul>
+					</div>
+					<h1>Radio for mac, Apple OSX app. Play and record streaming internet radio from your menu bar <a href="#" id="logoanimation"></a><a href="#" id="logo"><img src="images/radioformaclogocircle.png" width="86" height="86" alt="Radio for mac" /></a><a href="/"><img src="images/radioformaclogo.png" width="321" heigh="39" alt="Radio for mac, Apple OSX app to play and record streaming internet radio from your menu bar" id="radioformaclogo" /></a></h1>
+				</section>
+				<section id="stationslist">
+					<h2>Schedule recordings with <strong>Radio</strong> for mac</h2>
+	<p>You will use a combination of Radio, Automator and iCal to get your recordings scheduled.</p>				
+                    <p>ATTENTION - This will only work if your Mac and Radio are running when the recording is scheduled.</p>
+
+<h3>Setting up Radio</h3>
+<p>Add the station you want to record to your Favorites</p>
+
+<h3>Setting up Automator</h3>
+<p>Make sure that in System Preferences &gt; Accessibility 'Enable access for assistive devices' is turned on. <br>
+You need this to record the actions to start/stop recording.<br>
+<img src="images/rec/01-accessibility.png"></p>
+<h3>Setting up the Recording script</h3>
+<p>We first set up the Recording script. This will be station specific so for every station you want to record you will have to do this.</p>
+<ol>
+<li>Open Automator in Applications or via a Spotlight search<br>
+<img src="images/rec/02-start-automator.png"></li>
+<li>Choose Workflow<br>
+<img src="images/rec/03-choose-workflow.png"></li>
+<li>Choose Record top right<br>
+<img src="images/rec/04-choose-record.png"></li>
+<li>This will record all your your mouse actions. They will play back exactly as recorded when the script is run later. Do the following actions</li>
+</ol>
+<ul>
+<li>Open Radio menu</li>
+<li>Select your favorite station to play<br>
+<img src="images/rec/05-choose-station.png"></li>
+<li>Open menu again and chose 'record'</li>
+<li>The icon in the menu bar will now have a red center</li>
+<li>If you want to mute the sound while recording slide the volume to the left<br>
+<img src="images/rec/06-record-mute.png"></li>
+<li>If you want the Radio menu to close after starting the recording click with your mouse next to the menu on your desktop.</li>
+<li>Choose stop 'Atomator : Recording' to stop the Automator recording<br>
+<img src="images/rec/23-stop-recording.png"></li>
+</ul>
+<ol>
+<li>Your Automator window will now look something like this<br>
+<img src="images/rec/07-all-actions.png"></li>
+</ol>
+<ol>
+<li>Make sure your script is blazing fast so it is hard to interrupt:</li>
+</ol>
+<ul>
+<li>Set the Playback Speed to 10x</li>
+<li>Select all Events and set time out to 0 seconds<br>
+<img src="images/rec/08-all-actions-fast.png"></li>
+</ul>
+<ol>
+<li>Now choose File &gt; Save. Choose a valid name and destination for your file.</li>
+</ol>
+<p>For this tutorial you need to save the Workflow as an Application. if you want to have an editable version of the workflow save it as a Workflow.<br>
+<img src="images/rec/07b-save1.png"></p>
+<ol>
+<li>You now have an app that start recording your favorite station when you launch the app. Try it!<br>
+<img src="images/rec/09-app.png"></li>
+</ol>
+<h3>Setting up the Stop script</h3>
+<p>We now set up a second script to stop the recording at a later moment.</p>
+<ol>
+<li>Open Automator in Applications or via a Spotlight search. If Automator is already open choose File > New.</li>
+<li>Choose Workflow<br>
+<img src="images/rec/03-choose-workflow.png"></li>
+<li>Choose Record top right<br>
+<img src="images/rec/04-choose-record.png"></li>
+<li>This will record all your your mouse actions. They will play back exactly as recorded when the script is run later. Do the following actions</li>
+</ol>
+<ul>
+<li>Open Radio menu</li>
+<li>Choose Stop in Radio Menu<br>
+<img src="images/rec/26-stop-record.png"></li>
+<li>If you want the Radio menu to close after starting the recording click with your mouse next to the menu on your desktop.</li>
+<li>Choose stop 'Atomator : Recording' to stop the Automator recording<br>
+<img src="images/rec/23-stop-recording.png"></li>
+</ul>
+<ol>
+<li>Your Automator window will now look something like this<br>
+<img src="images/rec/20-all-actions.png"></li>
+</ol>
+<ol>
+<li>Make sure your script is blazing fast so it is hard to interrupt:</li>
+</ol>
+<ul>
+<li>Set the Playback Speed to 10x</li>
+<li>Select all Events and set time out to 0 seconds<br>
+<img src="images/rec/21-all-actions-fast.png"></li>
+</ul>
+<ol>
+<li>Now choose File &gt; Save. Choose a valid name and destination for your file.</li>
+</ol>
+<p>For this tutorial you need to save the Workflow as an Application. if you want to have an editable version of the workflow save it as a Workflow.<br>
+<img src="images/rec/22-save.png"></p>
+<ol>
+<li>You now have two apps one of starts and the other stops recording your favorite station when you launch the app. Try it!<br>
+<img src="images/rec/24-app.png"></li>
+</ol>
+<h3>Setting up iCal to schedule and start/stop recording</h3>
+<ol>
+<li>Run iCal</li>
+<li>Schedule an event at the time of recording. Let's say the show starts at 6.00 pm and ends at 7.00 pm every Thursday night.</li>
+</ol>
+<ul>
+<li>Insert event</li>
+<li>Set repeat schedule (this can be quite smart in iCal)<br>
+<img src="images/rec/40-set-calendar.png"></li>
+</ul>
+<ol>
+<li>To start the recording</li>
+</ol>
+<ul>
+<li>choose 'Alert' and then 'Open file'<br>
+<img src="images/rec/42-set-calendar.png"></li>
+<li>You will see that 'iCal' is now selected as file to open. Click 'iCal' and choose 'Other…'. Now select your app to START recording in the finder.<br>
+<img src="images/rec/44-set-calendar.png"></li>
+<li>Next step is to set the amount of time before you want to start the recording, e.g. 1 minute before.<br>
+<img src="images/rec/47-record-step1ready.png"></li>
+</ul>
+<ol>
+<li>To stop recording</li>
+</ol>
+<ul>
+<li>You will see that a second alert line appeared. Choose 'Alert' and then 'Open file'.</li>
+<li>You will see that 'iCal' is now selected as file to open. Click 'iCal' and choose 'Other…'. Now select your app to STOP recording in the finder.</li>
+<li>Next step is to set the amount of time after start you want to stop the recording, e.g. 62 minute after.<br>
+<img src="images/rec/49-record-end.png"></li>
+</ul>
+<h2>So this is it!</h2>
+<p>Now you have made two Automator scripts, Start &amp; Stop, and scheduled the recordings.<br>
+Remember that both your Mac and Radio need to run to make this work.</p>
+<p>PS1. You could launch Radio as part of the start script, e.g. via a Spotlight search and then run Radio. This will also work if Radio already runs.<br>
+PS2. Via Preferences > Energy Saver > Schedule... you can set your Mac to <a href="http://www.maclife.com/article/howtos/how_start_and_shut_down_your_mac_schedule" target="new">start up at a specific time</a>.                     
+				
+					
+			  </section>
+				<footer>
+					<p class="copyright">&copy; 2014 <a href="http://www.hetissimpel.nl" target="_blank">Het is Simpel</a></p>
+					<p class="colofon">website by <a href="http://www.remcokalf.nl" target="_blank">Remco Kalf</a></p>
+					<a href="http://www.hetissimpel.nl" target="_blank"><img src="images/logo-hetissimpel.png" widht="121" height="29" alt="Logo Het is Simpel" /></a> </footer>
+			</div>
+		</div>
+	</div>
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script> 
+<script src="js/jquery.dataTables.min.js"></script> 
+<script>
+$(document).ready(function() {
+	$('.table').dataTable({
+        "sPaginationType": "full_numbers",
+		//"aLengthMenu": [[10, 25, 50, 100, 500, -1], [10, 25, 50, 100, 500, "All"]]
+		"aLengthMenu": [[10, 25, 50, 100, 500, 1000], [10, 25, 50, 100, 500, 1000]],
+		"bStateSave": true
+    });
+});
+</script> 
+<script src="js/vendor/bootstrap.min.js"></script> 
+<script src="js/plugins.min.js"></script> 
+<script src="js/main.min.js"></script> 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-353161-49']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

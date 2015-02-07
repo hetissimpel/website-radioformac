@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Radio for mac &middot; Play and record streaming internet radio from your OSX Menu Bar</title>
+<meta name="description" content="Radio, OSX app for playing and recording streaming internet radio from your menu bar">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="shortcut icon" href="favicon.ico"/>
+<script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+<script type="text/javascript">
+function trackOutboundLink(link, category, action) { 
+ 
+try { 
+_gaq.push(['_trackEvent', category , action]); 
+} catch(err){}
+ 
+setTimeout(function() {
+document.location.href = link.href;
+}, 100);
+}
+</script>
+</head>
+<body>
+<img class="bg" src="images/background2.jpg" width="1296" height="810" />
+<div id="oldbrowsers">You are using Internet Explorer 6 or 7. Please use a modern browser like Firefox or upgrade Internet Explorer to properly view this website [x] </div>
+<div id="wrapper">
+	<div id="mbp">
+		<div id="notifications"></div>
+		<div id="notificationcenter" class="nonotes" data-toggle="popover ipad" data-placement="right" data-content="Can be turned off in preferences. Click to view." data-original-title="Song titles show in Notification Centre"></div>
+		<div id="desktop"> <a href="#" id="radioicon"></a>
+			<div id="radioapp">
+				<div id="menu">
+					<h2>Radio for mac, Apple OSX app for playing and recording streaming internet radio from your menu bar</h2>
+					<ul>
+						<li id="station" data-toggle="popover ipad" data-placement="right" data-content="Choose from large library or add your own. Play MP3, AAC, WMA and VBR streams. Click to view stations window." data-original-title="Radio station currently playing"><a href="#myModal" data-toggle="modal" role="button" data-slide-to="1" data-interval="false">Currently playing radio station</a></li>
+						<li id="song" data-toggle="popover ipad" data-placement="right" data-content="If provided by radio station. Song shows in Notification Centre if set in preferences."  data-original-title="Song or program info">Song or program info, shows in Notification Centre.</li>
+						<li id="buttons" data-toggle="popover ipad" data-placement="right" data-content="Play/pause/stop, favourite, record, volume slider."  data-original-title="Controls">Play, pause/stop, favourite, record, volume slider</li>
+						<li id="favs" data-toggle="popover ipad" data-placement="right" data-content="List of your favourite stations. Sync via iCloud to your Macs. Click to view favourites window."  data-original-title="Favourite stations"><a href="#myModal" role="button" data-toggle="modal" data-slide-to="2" data-interval="false">favourite radio stations</a></li>
+						<li id="recs" data-toggle="popover ipad" data-placement="right" data-content="List of recorded radio streams. Export your recordings as MP3 files. Click to view recordings window." data-original-title="Recordings"><a href="#myModal" role="button" data-toggle="modal" data-slide-to="3" data-interval="false">Record radio stations streams</a></li>
+						<li id="stations" data-toggle="popover" data-placement="right" data-content="Click to view stations window."  data-original-title="Radio stations list"><a href="#myModal" role="button" data-toggle="modal" data-slide-to="1" data-interval="false">Radio stations list database</a></li>
+						<li id="prefs" data-toggle="popover" data-placement="right" data-content="Click to view preference window." data-original-title="Preferences"><a href="#myModal" role="button" data-toggle="modal" data-slide-to="0" data-interval="false">Preferences</a></li>
+						<li id="quit" data-toggle="popover" data-placement="bottom" data-content="Click to quit. In the Preferences you can set Radio to start at login."  data-original-title="Quit Radio">Quit Radio</li>
+					</ul>
+				</div>
+			</div>
+			<div class="retina">Radio for mac, Apple OSX app for playing and recording streaming internet radio from your menu bar, is ready for Retina screens</div>
+			<div id="reflection"></div>
+		</div>
+		<div id="time">
+			<ul>
+				<li class="hours"></li>
+				<li class="point">:</li>
+				<li class="min"></li>
+				<li class="point">:</li>
+				<li class="secs"></li>
+			</ul>
+		</div>
+	</div>
+	<div class="container" id="top">
+		<div class="row">
+			<div class="span6 offset6">
+				<section class="intro">
+					<h1>Radio for mac, Apple OSX app. Play and record streaming internet radio from your menu bar <a href="#" id="logoanimation"></a><a href="#" id="logo"><img src="images/radioformaclogocircle.png" width="86" height="86" alt="Radio for mac" /></a><img src="images/radioformaclogo.png" width="321" heigh="39" alt="Radio for mac, Apple OSX app to play and record streaming internet radio from your menu bar" id="radioformaclogo" /></h1>
+					<h2>Listen, record and export your favourite radio stations.<br/>
+						All from your menu bar!</h2>
+					<ul class="features">
+						<li id="play"><a href="#myModal" role="button" data-toggle="modal" data-slide-to="1" data-interval="false"><span><strong>Play any streaming radio station: MP3, AAC, WMA or VBR</strong><br/>
+							Choose from our library with over 2000 stations<br />
+							Add your own radio stations</span></a></li>
+						<li id="nc"><a href="#"><span>Song titles show in Notification Centre</span></a></li>
+						<li id="fav"><a href="#myModal" role="button" data-toggle="modal" data-slide-to="2" data-interval="false"><span><strong>Favourite your favourite radio stations</strong><br/>
+							Sync your favourites over iCloud to your Macs</a></span></li>
+						<li id="rec"><a href="#myModal" role="button" data-toggle="modal"  data-slide-to="3" data-interval="false"><span><strong>Record your radio shows</strong><br/>
+							Export your recordings as MP3 files</span></a></li>
+					</ul>
+					<h3><strong>Radio</strong> as it should have shipped with your Mac.</h3>
+					<a href="http://appstore.com/mac/radio" class="appstore" onClick="trackOutboundLink(this, 'Appstore link button', 'clicked to Appstore through button'); return false;" title="Go to Radio for mac in the Mac App store" target="_blank">Radio for mac, Apple OSX app for playing and recording streaming internet radio, is available on the Mac App Store</a> <a href="http://appstore.com/mac/radio" onClick="trackOutboundLink(this, 'Appstore link prices', 'clicked to Appstore through prices'); return false;" class="price" title="Go to Radio for mac in the Mac App store" target="_blank">Only $6.99 / &euro;5,99 / &pound;4.99</a>
+					<div id="navbar">
+						<ul class="nav nav-pills" data-spy="affix" data-offset-top="710">
+							<li id="gototop"><a href="#top"><i class="totop-icon"><span>&uarr;</span></i></a></li>
+							<li><a href="#sysreq">System requirements</a></li>
+							<li><a href="#faq">FAQ</a></li>
+							<li><a href="#help">Help</a></li>
+							<li><a href="#about">About us</a></li>
+							<li id="twit"><a href="#twitter">Radioformac on Twitter</a></li>
+						</ul>
+					</div>
+				</section>
+				<section id="sysreq">
+					<h2><strong>Radio</strong> for mac</h2>
+					<div class="tabbable">
+						<ul class="nav nav-tabs">
+							<li class="active"><a href="#tab1" data-toggle="tab">System requirements</a></li>
+							<li><a href="#tab2" data-toggle="tab">Version history</a></li>
+							<li><a href="#tab3" data-toggle="tab">Known issues</a></li>
+						</ul>
+						<div class="tab-content">
+							<div class="tab-pane fade active in" id="tab1">
+								<p><span>Radio</span> works on all Macs with OSX 10.8 Mountain Lion installed. It needs an internet connection to stream radio stations.</p>
+								<p>If you want <span>Radio</span> to sync your favourite stations through Apple iCloud, you need to have iCloud activated in your System Preferences.</p>
+								<p><span>Radio</span> is designed to be very lightweight and use minimal system resources.</p>
+								<p><span>Radio</span> displays great on Retina screens.</p>
+							</div>
+							<div class="tab-pane fade" id="tab2">
+								<dl class="dl-horizontal">
+									<dt>Version 1.02</dt>
+									<dt><small>June 2013</small></dt>
+									<dd>Bug fixes.</dd>
+								</dl>
+								<dl class="dl-horizontal">
+									<dt>Version 1.0.1</dt>
+									<dt><small>June 2013</small></dt>
+									<dd>Initial release.</dd>
+								</dl>
+							</div>
+							<div class="tab-pane fade" id="tab3">
+								<!--<h4>Version 1.0.1</h4>-->
+								<ul>
+									<li>When using Airplay, it's not yet possible to only send the <strong>Radio</strong> sound over Airplay, without the system sound. We are considering adding this feature in a future version.</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section id="faq">
+					<h2>Frequently asked questions</h2>
+					<p>Below are some frequently asked questions. If your question is not answered here, please contact us:</p>
+					<p><a href="mailto:radio@hetissimpel.nl" class="btn btn-small btn-primary">radio@hetissimpel.nl</a></p>
+					<p><a href="https://twitter.com/intent/tweet?screen_name=radioformac" class="twitter-mention-button" data-related="radioformac">Tweet to @radioformac</a> </p>
+					<div class="accordion" id="accordion2">
+						<div class="accordion-group" id="faq1">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqOne">Can I play <strong>Radio</strong> over Airplay?</a> </div>
+							<div id="faqOne" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p><strong>Radio</strong> currently doesn't directly support Airplay.</p>
+									<p>However, if you'd really like to stream Radio via Airplay, here is a trick you can use:</p>
+									<p>Hold the Option (Alt) key and click on the Volume icon in the menu bar, a menu will appear showing any available Airplay device. Select your Airplay device and all your sounds will play over Airplay. </p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq2">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqTwo">How does the station library work?</a> </div>
+							<div id="faqTwo" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>The global library of streams that comes with <strong>Radio</strong> serves as a starting point when you start using the application. At the moment this is a database maintained by us, which will continually be updated, and is synced every time you start <strong>Radio</strong>.</p>
+									<p>You can add your own streams, but at the moment these custom stations will not be automatically added to our global library. Please send us an email at <a href="mailto:radio@hetissimpel.nl">radio@hetissimpel.nl</a> if you want a station to be added to our library for everyone to enjoy.</p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq3">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqThree">My station is missing, can you add it to your global library?</a> </div>
+							<div id="faqThree" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>Sure, please send us an email at <a href="mailto:radio@hetissimpel.nl">radio@hetissimpel.nl</a> and we will add it to our library for everyone to enjoy.</p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq4">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqFour">Why are the Edit and Delete buttons in the Stations Panel not working?</a> </div>
+							<div id="faqFour" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>You can only edit and delete stations that you added yourself. The global library of streams that comes with <strong>Radio</strong> cannot be edited or deleted, so if you did not add any custom stations, these buttons are greyed out.</p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq5">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqFive">My stream is not playing or displays an error.</a> </div>
+							<div id="faqFive" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>We're sorry to hear that. It could be anything from technical issues at the station to a glitch on our end. </p>
+									<p><strong>Radio</strong> supports the following formats: MP3, AAC, AAC+ and WMA.</p>
+									<p>Radio stream urls often change, some stations disappear. Also, some radio stations only broadcast at certain times of the day. You can manually delete streams that are not working anymore or that don't interest you.</p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq6">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqSix">My Flash-based radio stream is not playing.</a> </div>
+							<div id="faqSix" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>Thats right, <strong>Radio</strong> doesn't support Flash.</p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq7">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqSeven">What types of stations can I record?</a> </div>
+							<div id="faqSeven" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>Any stream that plays can be recorded. All recordings are in MP3 format and not restricted in any way.</p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq8">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqEight">Where are the recordings saved to?</a> </div>
+							<div id="faqEight" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>Your recordings are saved to this folder: <br/>
+										<span class="code">~/Music/Radio</span></p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq9">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqNine">How does iCloud syncing of my favourites work?</a> </div>
+							<div id="faqNine" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p><strong>Radio</strong> stores the station in your iCloud account and syncs it with any other Macs that are running <strong>Radio</strong> and are logged into your same iCloud account.</p>
+									<p>It's handy if you have a Mac at work/school and a different personal Mac at home.</p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq10">
+							<div class="accordion-heading"> <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#faqTen">Why does iCloud syncing not work?</a> </div>
+							<div id="faqTen" class="accordion-body collapse">
+								<div class="accordion-inner">
+									<p>It should! Check your iCloud settings on your Mac (System Preferences -> iCloud) and make sure that you are logged in and the "Documents &amp; Data" tick box is checked. </p>
+									<p>If that's the case, restart <strong>Radio</strong>, go into its General Preferences Panel and click on the iCloud Reset button. Hopefully, everything will jump into life then and your Favourites and custom stations are synced across iCloud.</p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq11">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqEleven">Can I import multiple streams at once?</a> </div>
+							<div id="faqEleven" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>Not at the moment. We might add this in a future version. Until that time you'll have to add streams one by one.</p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq12">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqTwelve">Can I automatically add streams from websites?</a> </div>
+							<div id="faqTwelve" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>Not yet, you'll have to find and add streams manually. </p>
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq13">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqThirteen">I want to include my streams, favourites and/or recordings in a backup. Where can I find them?</a> </div>
+							<div id="faqThirteen" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>The file containing both your streams and favourites can be found at:<br/>
+										<span class="code">~/Library/Containers/nl.hetissimpel.radio/Data/Library/Application Support/nl.hetissimpel.radio/radio.sqlite</span></p>
+									<p>Your recordings can be found in your User directory at: <br/>
+										<span class="code">~/Music/Radio</span></p>
+									<p>Also, your favourites are automatically synced to your iCloud account when you are logged in to iCloud in your OSX System Preferences. 
+								</div>
+							</div>
+						</div>
+						<div class="accordion-group" id="faq14">
+							<div class="accordion-heading"> <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#faqFourteen">Is <strong>Radio</strong> compatible with Retina screens?</a> </div>
+							<div id="faqFourteen" class="accordion-body collapse" >
+								<div class="accordion-inner">
+									<p>Yes it is! The primary idea of <strong>Radio</strong> is to have as little user interface as possible. But the interface that is there, is optimized for Retina. In fact, <strong>Radio</strong> was developed using Retina Macbook Pros.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section id="help">
+					<h2>Help</h2>
+					<p>If you have any questions or if you need support installing or using <span>Radio</span>, please contact us:</p>
+					<p><a href="mailto:radio@hetissimpel.nl" class="btn btn-small btn-primary">radio@hetissimpel.nl</a></p>
+					<p><a href="https://twitter.com/intent/tweet?screen_name=radioformac" class="twitter-mention-button" data-related="radioformac">Tweet to @radioformac</a> </p>
+					<p>Do you want specific radio stations added to our library? Let us know and we will add them.</p>
+					<p>Please let us know if you find any bugs or if you would like specific features to be added in future versions.</p>
+				</section>
+				<section id="about">
+					<h2>Why we built <strong>Radio</strong> for mac</h2>
+					<p>At Het is Simpel we tend to build things we need ourselves. <br/>
+						Damien listens to internet radio all day and got frustrated that he missed his favourite shows while being in presentations and meetings.</p>
+					<p>So he started searching for a lean and mean OSX app which would play and record streaming internet radio from the menu bar, while using minimal system resources. He didn't find it... </p>
+					<p>That's how <span>Radio</span> came to life.</p>
+					<h3>About us</h3>
+					<div class="media"> <a class="pull-left" href="#"> <img src="images/jeroen.jpg" width="64" height="64" class="media-object" > </a>
+						<div class="media-body">
+							<h3 class="media-heading">Jeroen Hermkens</h3>
+							<a href="https://twitter.com/JeroenHermkens" class="twitter-follow-button" data-show-count="false">Follow @JeroenHermkens</a>
+							<p>Jeroen is as passionate about easy to use interfaces as he is frustrated about confusing interfaces. Life can’t get better when he is making complex things easy to use. His company is called ‘Het is Simpel’ which translates as ‘It is Simple’. He is the designer of <a href="http://www.picstroom.com" target="_blank">PicStroom</a>, a visual RSS reader for the iPad, and <a href="http://image2talkapp.com" target="_blank">Image2Talk</a>, a functional communication app using images.</p>
+						</div>
+						<p class="buttons"><a href="http://www.hetissimpel.nl" class="btn btn-small btn-primary" target="_blank">hetissimpel.nl</a></p>
+						<a class="pull-left" href="#"> <img src="images/damien.jpg" width="64" height="64" class="media-object" > </a>
+						<div class="media-body">
+							<h3 class="media-heading">Damien Glancy</h3>
+							<a href="https://twitter.com/dglancy" class="twitter-follow-button" data-show-count="false">Follow @dglancy</a>
+							<p>Damien has been coding since before he was 7 years old. He works as a software engineer based in Dublin, Ireland. He is the developer of <a href="http://www.picstroom.com" target="_blank">PicStroom</a>, a visual RSS reader for the iPad, and <a href="http://image2talkapp.com" target="_blank">Image2Talk</a>, a functional communication app using images. He has worked for a large number of Irish companies, such as, Eontec (now Oracle), IONA, AIB Bank, Canada Life (via Sabeo) and BlackBerry.</p>
+							<p><a href="http://damienglancy.ie" class="btn btn-small btn-primary" target="_blank">damienglancy.ie</a></p>
+						</div>
+					</div>
+				</section>
+				<section id="twitter">
+					<h2><strong>Radio</strong> for mac on Twitter</h2>
+					<p><a href="https://twitter.com/radioformac" class="twitter-follow-button" data-show-count="false">Follow @radioformac</a><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.radioformac.com" data-via="radioformac">Tweet</a> </p>
+					<div class="tweet"></div>
+				</section>
+				<footer>
+					<p class="copyright">&copy; 2013 <a href="http://www.hetissimpel.nl" target="_blank">Het is Simpel</a></p>
+					<p class="colofon">website by <a href="http://www.remcokalf.nl" target="_blank">Remco Kalf</a></p>
+					<a href="http://www.hetissimpel.nl" target="_blank"><img src="images/logo-hetissimpel.png" widht="121" height="29" alt="Logo Het is Simpel" /></a> </footer>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+		<h3 id="myModalLabel"><span>Radio</span> for mac <small class="carousel-indicators"> > <span data-target="#myCarousel" data-slide-to="0" data-interval="false">Preferences</span> / <span data-target="#myCarousel" data-slide-to="1" data-interval="false" class="active">Stations</span> / <span data-target="#myCarousel" data-slide-to="2" data-interval="false">Favourites</span> / <span data-target="#myCarousel" data-slide-to="3" data-interval="false">Recordings</span></small></h3>
+	</div>
+	<div class="modal-body">
+		<div id="myCarousel" class="carousel slide">
+			<ol class="carousel-indicators" id="indicatoricons">
+				<li data-target="#myCarousel" data-slide-to="0" data-interval="false"></li>
+				<li data-target="#myCarousel" data-slide-to="1" data-interval="false" class="active"></li>
+				<li data-target="#myCarousel" data-slide-to="2" data-interval="false"></li>
+				<li data-target="#myCarousel" data-slide-to="3" data-interval="false"></li>
+			</ol>
+			<ol class="carousel-indicators" id="fakebuttons">
+				<li data-target="#myCarousel" data-slide-to="0" data-interval="false"></li>
+				<li data-target="#myCarousel" data-slide-to="1" data-interval="false" class="active"></li>
+				<li data-target="#myCarousel" data-slide-to="2" data-interval="false"></li>
+				<li data-target="#myCarousel" data-slide-to="3" data-interval="false"></li>
+			</ol>
+			<div class="carousel-inner">
+				<div class="item"><img src="images/prefsgeneral.png" alt="Radio for mac general preference window" width="691" height="610" /></div>
+				<div class="active item"><img src="images/prefsstations.png" alt="Radio for mac stations preference window" width="691" height="610"/></div>
+				<div class="item"><img src="images/prefsfavorites.png" alt="Radio for mac favourites preference window" width="691" height="610"/></div>
+				<div class="item"><img src="images/prefsrecordings.png" alt="Radio for mac recordings preference window" width="691" height="610"/></div>
+			</div>
+			<a class="carousel-control left" href="#myCarousel" data-slide="prev" data-interval="false">&lsaquo;</a> <a class="carousel-control right" href="#myCarousel" data-slide="next" data-interval="false">&rsaquo;</a> </div>
+	</div>
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script> 
+<script src="js/vendor/bootstrap.min.js"></script> 
+<script src="js/plugins.min.js"></script> 
+<script src="js/main.min.js"></script> 
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-353161-49']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

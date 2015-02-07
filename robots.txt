@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /indexdef.html
+Disallow: /indexnew.html
+Disallow: /index-old.html
+Disallow: /stations-backup.html

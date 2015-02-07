@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>station-3018</key>
+	<dict>
+		<key>guid</key>
+		<string>3018</string>
+		<key>name</key>
+		<string>Intergalactic Classix</string>
+		<key>url</key>
+		<string>http://radio.intergalacticfm.com/2.m3u</string>
+		<key>desc</key>
+		<string>Electronic</string>
+		<key>country</key>
+		<string>Internet</string>
+		<key>city</key>
+		<string>Internet</string>
+		<key>website</key>
+		<string>https://intergalacticfm.com/intergalactic_classix.php</string>
+	</dict>
+	<key>station-3019</key>
+	<dict>
+		<key>guid</key>
+		<string>3019</string>
+		<key>name</key>
+		<string>Radio Galaxia</string>
+		<key>url</key>
+		<string>http://radio.intergalacticfm.com/3.m3u</string>
+		<key>desc</key>
+		<string>Electronic</string>
+		<key>country</key>
+		<string>Internet</string>
+		<key>city</key>
+		<string>Internet</string>
+		<key>website</key>
+		<string>https://intergalacticfm.com/radio_galaxia.php</string>
+	</dict>
+	<key>station-3020</key>
+	<dict>
+		<key>guid</key>
+		<string>3020</string>
+		<key>name</key>
+		<string>Murdercapital FM</string>
+		<key>url</key>
+		<string>http://radio.intergalacticfm.com/1.m3u</string>
+		<key>desc</key>
+		<string>Electronic</string>
+		<key>country</key>
+		<string>Internet</string>
+		<key>city</key>
+		<string>Internet</string>
+		<key>website</key>
+		<string>https://intergalacticfm.com/murdercapital_fm.php</string>
+	</dict>
+	<key>station-3021</key>
+	<dict>
+		<key>guid</key>
+		<string>3021</string>
+		<key>name</key>
+		<string>The Dream Machine</string>
+		<key>url</key>
+		<string>http://radio.intergalacticfm.com/4.m3u</string>
+		<key>desc</key>
+		<string>Electronic</string>
+		<key>country</key>
+		<string>Internet</string>
+		<key>city</key>
+		<string>Internet</string>
+		<key>website</key>
+		<string>https://intergalacticfm.com/the_dream_machine.php</string>
+	</dict>
+	<key>station-3022</key>
+	<dict>
+		<key>guid</key>
+		<string>3022</string>
+		<key>name</key>
+		<string>The Garden</string>
+		<key>url</key>
+		<string>http://radio.intergalacticfm.com/5.m3u</string>
+		<key>desc</key>
+		<string>Electronic</string>
+		<key>country</key>
+		<string>Internet</string>
+		<key>city</key>
+		<string>Internet</string>
+		<key>website</key>
+		<string>https://intergalacticfm.com/the_garden.php</string>
+	</dict>
+	<key>station-3023</key>
+	<dict>
+		<key>guid</key>
+		<string>3023</string>
+		<key>name</key>
+		<string>Radio Free Robotron</string>
+		<key>url</key>
+		<string>http://radio.intergalacticfm.com/6.m3u</string>
+		<key>desc</key>
+		<string>Electronic</string>
+		<key>country</key>
+		<string>Internet</string>
+		<key>city</key>
+		<string>Internet</string>
+		<key>website</key>
+		<string>https://intergalacticfm.com/radio_free_robotron.php</string>
+	</dict>
+	<key>station-3024</key>
+	<dict>
+		<key>guid</key>
+		<string>3024</string>
+		<key>name</key>
+		<string>ABC Classic FM</string>
+		<key>url</key>
+		<string>http://www.abc.net.au/res/streaming/audio/aac/classic_fm.pls</string>
+		<key>desc</key>
+		<string>Station</string>
+		<key>country</key>
+		<string>Australia</string>
+		<key>city</key>
+		<string>Sydney</string>
+		<key>website</key>
+		<string>http://www.abc.net.au/radio</string>
+	</dict>
+	<key>station-3025</key>
+	<dict>
+		<key>guid</key>
+		<string>3025</string>
+		<key>name</key>
+		<string>ABC News Radio</string>
+		<key>url</key>
+		<string>http://www.abc.net.au/res/streaming/audio/aac/news_radio.pls</string>
+		<key>desc</key>
+		<string>Station</string>
+		<key>country</key>
+		<string>Australia</string>
+		<key>city</key>
+		<string>Sydney</string>
+		<key>website</key>
+		<string>http://www.abc.net.au/radio</string>
+	</dict>
+</dict>
+</plist>
