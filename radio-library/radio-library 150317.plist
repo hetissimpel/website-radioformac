@@ -285,9 +285,9 @@
 <key>station-3301</key><dict><key>guid</key><string>3301</string><key>name</key><string>Radio ABC </string><key>url</key><string>http://www.bombelman.com/abc/listen.m3u</string><key>desc</key><string>The love station</string><key>country</key><string>Suriname</string><key>city</key><string>Paramaribo</string><key>website</key><string>http://www.abcsuriname.com</string></dict>
 <key>station-3302</key><dict><key>guid</key><string>3302</string><key>name</key><string>Galway Bay FM</string><key>url</key><string>http://91.121.0.110:8002/;stream.mp3</string><key>desc</key><string>Galway Bay News, Sport</string><key>country</key><string>Ireland</string><key>city</key><string>Galway</string><key>website</key><string>http://galwaybayfm.ie</string></dict>
 <key>station-3303</key><dict><key>guid</key><string>3303</string><key>name</key><string>FM 80 </string><key>url</key><string>http://listen.radionomy.com/fm-80</string><key>desc</key><string>Funk/Disco/Soul/New Wave/80s Hits</string><key>country</key><string>France</string><key>city</key><string>Internet only</string><key>website</key><string>http://www.fm80.fr</string></dict>
-<key>station-3304</key><dict><key>guid</key><string>3304</string><key>name</key><string>France Inter</string><key>url</key><string>http://www.tv-radio.com/station/france_inter_mp3/france_inter_mp3-128k.m3u</string><key>desc</key><string>General</string><key>country</key><string>France</string><key>city</key><string>Paris</string><key>website</key><string>http://www.franceinter.fr/</string></dict>
-<key>station-3305</key><dict><key>guid</key><string>3305</string><key>name</key><string>France Culture</string><key>url</key><string>http://www.tv-radio.com/station/france_culture_mp3/france_culture_mp3-128k.m3u</string><key>desc</key><string>Cultural programmes</string><key>country</key><string>France</string><key>city</key><string>Paris</string><key>website</key><string>http://www.franceculture.fr</string></dict>
-<key>station-3306</key><dict><key>guid</key><string>3306</string><key>name</key><string>France Musique</string><key>url</key><string>http://www.tv-radio.com/station/france_musique_mp3/france_musique_mp3-128k.m3u</string><key>desc</key><string>Classical Music</string><key>country</key><string>France</string><key>city</key><string>Paris</string><key>website</key><string>http://www.francemusique.fr/</string></dict>
+
+
+
 
 
 
@@ -309,23 +309,6 @@
 <key>station-227</key><dict><key>guid</key><string>227</string><key>name</key><string>Slam!FM new</string><key>url</key><string>http://edge1-icecast.538.lw.triple-it.nl/SLAMFM_MP3</string><key>desc</key><string>Top 40/Dance</string><key>country</key><string>Amsterdam</string><key>city</key><string>Netherlands</string><key>website</key><string>http://www.slamfm.nl/</string></dict>
 <key>station-247</key><dict><key>guid</key><string>247</string><key>name</key><string>Veronica Rock Radio</string><key>url</key><string>http://www.radioveronica.nl/player/radioveronica.pls</string><key>desc</key><string>Rock</string><key>country</key><string>Hilversum</string><key>city</key><string>Netherlands</string><key>website</key><string>http://www.radioveronica.nl/</string></dict>
 <key>station-248</key><dict><key>guid</key><string>248</string><key>name</key><string>Veronica192</string><key>url</key><string>http://www.radioveronica.nl/player/radioveronica.pls</string><key>desc</key><string>60s/70s oldies</string><key>country</key><string>Internet only</string><key>city</key><string>Netherlands</string><key>website</key><string>http://www.veronica192.nl/</string></dict>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <key>station-2498</key><dict><key>guid</key><string>2498</string><key>name</key><string>BBC Radio 1</string><key>url</key><string>http://www.radiofeeds.co.uk/bbcradio1.pls</string><key>desc</key><string>Top 40/Dance</string><key>country</key><string>National</string><key>city</key><string>United Kingdom</string><key>website</key><string>http://www.bbc.co.uk/radio1/</string></dict>
 <key>station-2499</key><dict><key>guid</key><string>2499</string><key>name</key><string>BBC Radio 2</string><key>url</key><string>http://www.radiofeeds.co.uk/bbcradio2.pls</string><key>desc</key><string>Adult Contemporary</string><key>country</key><string>National</string><key>city</key><string>United Kingdom</string><key>website</key><string>http://www.bbc.co.uk/radio2/</string></dict>
 <key>station-2500</key><dict><key>guid</key><string>2500</string><key>name</key><string>BBC Radio 3</string><key>url</key><string>http://www.radiofeeds.co.uk/bbcradio3.pls</string><key>desc</key><string>Classical</string><key>country</key><string>National</string><key>city</key><string>United Kingdom</string><key>website</key><string>http://www.bbc.co.uk/radio3/</string></dict>
