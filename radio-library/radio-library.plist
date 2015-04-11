@@ -292,6 +292,10 @@
 <key>station-3308</key><dict><key>guid</key><string>3308</string><key>name</key><string>BBC Radio Kent</string><key>url</key><string>http://www.radiofeeds.co.uk/bbcradiokent.pls</string><key>desc</key><string></string><key>country</key><string>UK</string><key>city</key><string>Kent</string><key>website</key><string>http://www.bbc.co.uk/radiokent</string></dict>
 <key>station-3309</key><dict><key>guid</key><string>3309</string><key>name</key><string>Smooth Radio North West</string><key>url</key><string>http://media-ice.musicradio.com:80/SmoothNorthWestMP3</string><key>desc</key><string>Your relaxing music mix</string><key>country</key><string>UK</string><key>city</key><string></string><key>website</key><string>http://www.smoothradio.com</string></dict>
 <key>station-3310</key><dict><key>guid</key><string>3310</string><key>name</key><string>Magic 105.4</string><key>url</key><string>http://icy-e-02-cr.sharp-stream.com:8000/magic1054.mp3</string><key>desc</key><string>Less talk</string><key>country</key><string>UK</string><key>city</key><string>Peterborough</string><key>website</key><string>http://www.magic.co.uk</string></dict>
+<key>station-3311</key><dict><key>guid</key><string>3311</string><key>name</key><string>Radio Nostalgia</string><key>url</key><string>http://www.radio-nostalgia.nl/nostalgia.pls</string><key>desc</key><string>Your oldies station</string><key>country</key><string>Nederland</string><key>city</key><string></string><key>website</key><string>http://www.radio-nostalgia.nl</string></dict>
+
+
+
 
 
 
