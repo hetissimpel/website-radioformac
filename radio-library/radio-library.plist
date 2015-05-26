@@ -53,7 +53,7 @@
 <key>station-3069</key><dict><key>guid</key><string>3069</string><key>name</key><string>SomaFM Secret Agent</string><key>url</key><string>http://somafm.com/secretagent.pls</string><key>desc</key><string>The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!</string><key>country</key><string>United States</string><key>city</key><string>San Francisco</string><key>website</key><string>http://somafm.com/secretagent</string></dict>
 <key>station-3070</key><dict><key>guid</key><string>3070</string><key>name</key><string>SomaFM Underground 80s</string><key>url</key><string>http://somafm.com/u80s.pls</string><key>desc</key><string>Early 80s UK Synthpop and a bit of New Wave.</string><key>country</key><string>United States</string><key>city</key><string>San Francisco</string><key>website</key><string>http://somafm.com/u80s</string></dict>
 <key>station-3071</key><dict><key>guid</key><string>3071</string><key>name</key><string>SomaFM Covers</string><key>url</key><string>http://somafm.com/covers.pls</string><key>desc</key><string>Just covers. Songs you know by artists you don't. We've got you covered.</string><key>country</key><string>United States</string><key>city</key><string>San Francisco</string><key>website</key><string>http://somafm.com/covers</string></dict>
-<key>station-3072</key><dict><key>guid</key><string>3072</string><key>name</key><string>VI Radio</string><key>url</key><string>http://www.radioveronica.nl/player/veronicaviradio.pls</string><key>desc</key><string>Voetbal Voetbal Voetbal</string><key>country</key><string>Nederland</string><key>city</key><string>Amsterdam</string><key>website</key><string>http://www.vi.nl</string></dict>
+<key>station-3072</key><dict><key>guid</key><string>3072</string><key>name</key><string>VI Radio</string><key>url</key><string>http://www.radioveronica.nl/player/veronicaviradio.pls</string><key>desc</key><string>Voetbal Voetbal Voetbal</string><key>country</key><string>Netherlands</string><key>city</key><string>Amsterdam</string><key>website</key><string>http://www.vi.nl</string></dict>
 <key>station-3073</key><dict><key>guid</key><string>3073</string><key>name</key><string>Gaydio</string><key>url</key><string>http://gaydio.canstream.co.uk:8001/gaydio_high</string><key>desc</key><string>The Beat of Gay UK</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string>http://uk.gaydio.co.uk</string></dict>
 <key>station-3074</key><dict><key>guid</key><string>3074</string><key>name</key><string>NPR 24-Hour Program </string><key>url</key><string>http://www.npr.org/streams/mp3/nprlive24.pls</string><key>desc</key><string>NPR: News &amp; Analysis</string><key>country</key><string>United States</string><key>city</key><string>Washington</string><key>website</key><string>http://www.npr.org</string></dict>
 <key>station-3075</key><dict><key>guid</key><string>3075</string><key>name</key><string>Klubrádió</string><key>url</key><string>http://www.klubradio.hu/stream.m3u</string><key>desc</key><string>News</string><key>country</key><string>Hungary</string><key>city</key><string>Budapest</string><key>website</key><string>http://www.klubradio.hu</string></dict>
@@ -83,8 +83,8 @@
 <key>station-3099</key><dict><key>guid</key><string>3099</string><key>name</key><string>Sunrise Radio</string><key>url</key><string>http://direct.sharp-stream.com/sunrise.mp3.m3u</string><key>desc</key><string>Asian</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string>http://www.sunriseradio.com</string></dict>
 <key>station-3100</key><dict><key>guid</key><string>3100</string><key>name</key><string>Radio Sindhi</string><key>url</key><string>http://208.109.186.29:8205/listen.pls</string><key>desc</key><string>Sindhi</string><key>country</key><string>India</string><key>city</key><string>Mumbai</string><key>website</key><string>http://radiosindhi.com</string></dict>
 <key>station-3101</key><dict><key>guid</key><string>3101</string><key>name</key><string>Nusound Radio</string><key>url</key><string>http://www.nusoundradio.com/Images/nusound.m3u</string><key>desc</key><string>Asian</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string>http://www.nusoundradio.com</string></dict>
-<key>station-3102</key><dict><key>guid</key><string>3102</string><key>name</key><string>RTV N-H</string><key>url</key><string>http://www.rtvnh.nl/static/rnh.pls</string><key>desc</key><string>Dutch regional public broadcaster</string><key>country</key><string>Nederland</string><key>city</key><string>Amsterdam</string><key>website</key><string>http://www.rtvnh.nl</string></dict>
-<key>station-3103</key><dict><key>guid</key><string>3103</string><key>name</key><string>Nostalgie net</string><key>url</key><string>http://server-25.stream-server.nl:8500/listen.pls</string><key>desc</key><string>Dutch nostalgia</string><key>country</key><string>Nederland</string><key>city</key><string>Hilversum</string><key>website</key><string>http://www.nostalgienet.nl</string></dict>
+<key>station-3102</key><dict><key>guid</key><string>3102</string><key>name</key><string>RTV N-H</string><key>url</key><string>http://www.rtvnh.nl/static/rnh.pls</string><key>desc</key><string>Dutch regional public broadcaster</string><key>country</key><string>Netherlands</string><key>city</key><string>Amsterdam</string><key>website</key><string>http://www.rtvnh.nl</string></dict>
+<key>station-3103</key><dict><key>guid</key><string>3103</string><key>name</key><string>Nostalgie net</string><key>url</key><string>http://server-25.stream-server.nl:8500/listen.pls</string><key>desc</key><string>Dutch nostalgia</string><key>country</key><string>Netherlands</string><key>city</key><string>Hilversum</string><key>website</key><string>http://www.nostalgienet.nl</string></dict>
 <key>station-3104</key><dict><key>guid</key><string>3104</string><key>name</key><string>Mixadance Fm</string><key>url</key><string>http://stream.mixadance.fm:8008/mixadance</string><key>desc</key><string>Mixadance Fm - Online Progressive Station</string><key>country</key><string>Russia</string><key>city</key><string>Moscow</string><key>website</key><string>http://www.mixadance.fm/</string></dict>
 <key>station-3105</key><dict><key>guid</key><string>3105</string><key>name</key><string>Ambient - DIGITALLY IMPORTED</string><key>url</key><string>http://pub3.di.fm/di_ambient.m3u</string><key>desc</key><string>A blend of ambient, downtempo, and chillout.</string><key>country</key><string>United States</string><key>city</key><string>Palo Alto</string><key>website</key><string>http://www.di.fm/ambient</string></dict>
 <key>station-3106</key><dict><key>guid</key><string>3106</string><key>name</key><string>Big Room House - DIGITALLY IMPORTED</string><key>url</key><string>http://pub3.di.fm/di_bigroomhouse.m3u</string><key>desc</key><string>The most uplifting, floor-filling Big Room House!</string><key>country</key><string>United States</string><key>city</key><string>Palo Alto</string><key>website</key><string>http://www.di.fm/bigroomhouse</string></dict>
@@ -229,7 +229,7 @@
 <key>station-3245</key><dict><key>guid</key><string>3245</string><key>name</key><string>CKUA</string><key>url</key><string>http://ckua.streamon.fm/listen.m3u</string><key>desc</key><string>Listener Supported Community Radio</string><key>country</key><string>USA</string><key>city</key><string>Edmonton</string><key>website</key><string>http://www.ckua.com</string></dict>
 <key>station-3246</key><dict><key>guid</key><string>3246</string><key>name</key><string>Rockshop Radio </string><key>url</key><string>http://rockshop.streamit4.me</string><key>desc</key><string>The Alternative Alternative... </string><key>country</key><string>New Zealand </string><key>city</key><string>Auckland </string><key>website</key><string> http://www.rockshop.co.nz</string></dict>
 <key>station-3247</key><dict><key>guid</key><string>3247</string><key>name</key><string>LBC 973</string><key>url</key><string>http://vis.media-ice.musicradio.com/LBC973.m3u</string><key>desc</key><string>UK’s leading independent radio station for News and Talk.</string><key>country</key><string>UK</string><key>city</key><string>London</string><key>website</key><string>http://www.lbc.co.uk</string></dict>
-<key>station-3248</key><dict><key>guid</key><string>3248</string><key>name</key><string>SublimeFM2</string><key>url</key><string>http://82.201.47.68/SublimeFM2.m3u</string><key>desc</key><string>Fresh Jazzy Sounds!</string><key>country</key><string>Nederland</string><key>city</key><string>Utrecht</string><key>website</key><string>http://www.sublimefm.nl</string></dict>
+<key>station-3248</key><dict><key>guid</key><string>3248</string><key>name</key><string>SublimeFM2</string><key>url</key><string>http://82.201.47.68/SublimeFM2.m3u</string><key>desc</key><string>Fresh Jazzy Sounds!</string><key>country</key><string>Netherlands</string><key>city</key><string>Utrecht</string><key>website</key><string>http://www.sublimefm.nl</string></dict>
 <key>station-3249</key><dict><key>guid</key><string>3249</string><key>name</key><string>Studio Brussel </string><key>url</key><string>http://www.listenlive.eu/vrtstubru-high.m3u</string><key>desc</key><string>Pop </string><key>country</key><string>Belgium </string><key>city</key><string>Brussel </string><key>website</key><string>http://www.stubru.be</string></dict>
 <key>station-3250</key><dict><key>guid</key><string>3250</string><key>name</key><string>Klara </string><key>url</key><string>http://www.listenlive.eu/vrtklara-high.m3u</string><key>desc</key><string>Classical</string><key>country</key><string>Belgium</string><key>city</key><string>Brussel</string><key>website</key><string>http://www.klara.be</string></dict>
 <key>station-3251</key><dict><key>guid</key><string>3251</string><key>name</key><string>Allez Foute Ambiance!!! - Ambiance hits!!</string><key>url</key><string>http://listen.radionomy.com/allez-foute-ambiance.m3u</string><key>desc</key><string>Foute Ambiance</string><key>country</key><string>Belgium</string><key>city</key><string></string><key>website</key><string></string></dict>
@@ -292,9 +292,9 @@
 <key>station-3308</key><dict><key>guid</key><string>3308</string><key>name</key><string>BBC Radio Kent</string><key>url</key><string>http://www.radiofeeds.co.uk/bbcradiokent.pls</string><key>desc</key><string></string><key>country</key><string>UK</string><key>city</key><string>Kent</string><key>website</key><string>http://www.bbc.co.uk/radiokent</string></dict>
 <key>station-3309</key><dict><key>guid</key><string>3309</string><key>name</key><string>Smooth Radio North West</string><key>url</key><string>http://media-ice.musicradio.com:80/SmoothNorthWestMP3</string><key>desc</key><string>Your relaxing music mix</string><key>country</key><string>UK</string><key>city</key><string></string><key>website</key><string>http://www.smoothradio.com</string></dict>
 <key>station-3310</key><dict><key>guid</key><string>3310</string><key>name</key><string>Magic 105.4</string><key>url</key><string>http://icy-e-02-cr.sharp-stream.com:8000/magic1054.mp3</string><key>desc</key><string>Less talk</string><key>country</key><string>UK</string><key>city</key><string>Peterborough</string><key>website</key><string>http://www.magic.co.uk</string></dict>
-<key>station-3311</key><dict><key>guid</key><string>3311</string><key>name</key><string>Radio Nostalgia</string><key>url</key><string>http://www.radio-nostalgia.nl/nostalgia.pls</string><key>desc</key><string>Your oldies station</string><key>country</key><string>Nederland</string><key>city</key><string></string><key>website</key><string>http://www.radio-nostalgia.nl</string></dict>
+<key>station-3311</key><dict><key>guid</key><string>3311</string><key>name</key><string>Radio Nostalgia</string><key>url</key><string>http://www.radio-nostalgia.nl/nostalgia.pls</string><key>desc</key><string>Your oldies station</string><key>country</key><string>Netherlands</string><key>city</key><string></string><key>website</key><string>http://www.radio-nostalgia.nl</string></dict>
 <key>station-3312</key><dict><key>guid</key><string>3312</string><key>name</key><string>Flaixbac</string><key>url</key><string>http://shoutcast.flaix.stream.flumotion.com/flaix/shoutcast2.mp3.m3u</string><key>desc</key><string>Top 40/Dance</string><key>country</key><string>Spain</string><key>city</key><string>Barcelona</string><key>website</key><string>http://www.flaixfm.com/</string></dict>
-
+<key>station-3313</key><dict><key>guid</key><string>3313</string><key>name</key><string>2GB AM 873</string><key>url</key><string>http://shoutcast.2gb.com/listen.pls?sid=1</string><key>desc</key><string>News, talk, sport, entertainment</string><key>country</key><string>Australia</string><key>city</key><string>Sydney</string><key>website</key><string>http://www.2gb.com</string></dict>
 
 
 
@@ -373,6 +373,79 @@
 
 
 </dict></plist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
