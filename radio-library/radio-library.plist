@@ -296,6 +296,15 @@
 <key>station-3312</key><dict><key>guid</key><string>3312</string><key>name</key><string>Flaixbac</string><key>url</key><string>http://shoutcast.flaix.stream.flumotion.com/flaix/shoutcast2.mp3.m3u</string><key>desc</key><string>Top 40/Dance</string><key>country</key><string>Spain</string><key>city</key><string>Barcelona</string><key>website</key><string>http://www.flaixfm.com/</string></dict>
 <key>station-3313</key><dict><key>guid</key><string>3313</string><key>name</key><string>2GB AM 873</string><key>url</key><string>http://shoutcast.2gb.com/listen.pls?sid=1</string><key>desc</key><string>News, talk, sport, entertainment</string><key>country</key><string>Australia</string><key>city</key><string>Sydney</string><key>website</key><string>http://www.2gb.com</string></dict>
 <key>station-3314</key><dict><key>guid</key><string>3314</string><key>name</key><string>XFM London</string><key>url</key><string>http://media-ice.musicradio.com/XFMMP3.m3u</string><key>desc</key><string>Rock</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string>http://www.2gb.com</string></dict>
+<key>station-3315</key><dict><key>guid</key><string>3315</string><key>name</key><string>Jack 2</string><key>url</key><string>http://playerservices.streamtheworld.com/pls/JACK2_AAC.pls</string><key>desc</key><string>Adult Contemporary</string><key>country</key><string>United Kingdom</string><key>city</key><string>Oxford</string><key>website</key><string>http://www.xfm.co.uk/london/</string></dict>
+<key>station-3316</key><dict><key>guid</key><string>3316</string><key>name</key><string>NRJ </string><key>url</key><string>http://icecastsource2.amri.ca/chik-mp3</string><key>desc</key><string>NRJ </string><key>country</key><string>Canada </string><key>city</key><string>Quebec City </string><key>website</key><string>http://quebec.radionrj.ca</string></dict>
+
+
+
+
+
+
+
 
 
 
