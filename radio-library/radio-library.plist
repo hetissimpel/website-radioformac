@@ -300,7 +300,7 @@
 <key>station-3316</key><dict><key>guid</key><string>3316</string><key>name</key><string>NRJ </string><key>url</key><string>http://icecastsource2.amri.ca/chik-mp3</string><key>desc</key><string>NRJ </string><key>country</key><string>Canada </string><key>city</key><string>Quebec City </string><key>website</key><string>http://quebec.radionrj.ca</string></dict>
 <key>station-3317</key><dict><key>guid</key><string>3317</string><key>name</key><string>WBAP</string><key>url</key><string>http://provisioning.streamtheworld.com/pls/WBAPAMAAC.pls</string><key>desc</key><string>News, talk</string><key>country</key><string>United States</string><key>city</key><string>Texas</string><key>website</key><string>http://www.wbap.com</string></dict>
 <key>station-3318</key><dict><key>guid</key><string>3318</string><key>name</key><string>RTBF Musiq 3</string><key>url</key><string>http://musiq3.ice.rtbf.be/musiq3-128.aac.m3u</string><key>desc</key><string>Classical</string><key>country</key><string>Belgium</string><key>city</key><string>Brussels</string><key>website</key><string>http://www.musiq3.be/</string></dict>
-
+<key>station-3319</key><dict><key>guid</key><string>3319</string><key>name</key><string>KKOH</string><key>url</key><string>http://provisioning.streamtheworld.com/pls/kkoham.pls</string><key>desc</key><string>News, talk</string><key>country</key><string>United States</string><key>city</key><string>Reno</string><key>website</key><string></string></dict>
 
 
 
