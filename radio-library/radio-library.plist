@@ -301,7 +301,7 @@
 <key>station-3317</key><dict><key>guid</key><string>3317</string><key>name</key><string>WBAP</string><key>url</key><string>http://provisioning.streamtheworld.com/pls/WBAPAMAAC.pls</string><key>desc</key><string>News, talk</string><key>country</key><string>United States</string><key>city</key><string>Texas</string><key>website</key><string>http://www.wbap.com</string></dict>
 <key>station-3318</key><dict><key>guid</key><string>3318</string><key>name</key><string>RTBF Musiq 3</string><key>url</key><string>http://musiq3.ice.rtbf.be/musiq3-128.aac.m3u</string><key>desc</key><string>Classical</string><key>country</key><string>Belgium</string><key>city</key><string>Brussels</string><key>website</key><string>http://www.musiq3.be/</string></dict>
 <key>station-3319</key><dict><key>guid</key><string>3319</string><key>name</key><string>KKOH</string><key>url</key><string>http://provisioning.streamtheworld.com/pls/kkoham.pls</string><key>desc</key><string>News, talk</string><key>country</key><string>United States</string><key>city</key><string>Reno</string><key>website</key><string></string></dict>
-
+<key>station-3320</key><dict><key>guid</key><string>3320</string><key>name</key><string>Hiper FM</string><key>url</key><string>http://109.71.41.250:8158/listen.pls</string><key>desc</key><string>Top 40</string><key>country</key><string>Portugal</string><key>city</key><string>Rio Maior</string><key>website</key><string>http://www.hiper.fm/</string></dict>
 
 
 
