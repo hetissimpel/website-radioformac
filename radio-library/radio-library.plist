@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict>
 <key>station-3018</key><dict><key>guid</key><string>3018</string><key>name</key><string>Intergalactic Classix</string><key>url</key><string>http://radio.intergalacticfm.com/2.m3u</string><key>desc</key><string>Electronic</string><key>country</key><string>Internet</string><key>city</key><string>Internet</string><key>website</key><string>https://intergalacticfm.com/intergalactic_classix.php</string></dict>
 <key>station-3019</key><dict><key>guid</key><string>3019</string><key>name</key><string>Radio Galaxia</string><key>url</key><string>http://radio.intergalacticfm.com/3.m3u</string><key>desc</key><string>Electronic</string><key>country</key><string>Internet</string><key>city</key><string>Internet</string><key>website</key><string>https://intergalacticfm.com/radio_galaxia.php</string></dict>
@@ -223,7 +224,7 @@
 <key>station-3239</key><dict><key>guid</key><string>3239</string><key>name</key><string>Absolute Radio 90s</string><key>url</key><string>http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a9bb</string><key>desc</key><string>Only UK</string><key>country</key><string>UK</string><key>city</key><string>London</string><key>website</key><string>http://www.absoluteradio.co.uk</string></dict>
 <key>station-3240</key><dict><key>guid</key><string>3240</string><key>name</key><string>Absolute Radio 00s</string><key>url</key><string>http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a0bb</string><key>desc</key><string>Only UK</string><key>country</key><string>UK</string><key>city</key><string>London</string><key>website</key><string>http://www.absoluteradio.co.uk</string></dict>
 <key>station-3241</key><dict><key>guid</key><string>3241</string><key>name</key><string>Absolute Classic Rock</string><key>url</key><string>http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=vcbb</string><key>desc</key><string>Only UK</string><key>country</key><string>UK</string><key>city</key><string>London</string><key>website</key><string>http://www.absoluteradio.co.uk</string></dict>
-<key>station-3242</key><dict><key>guid</key><string>3242</string><key>name</key><string>FIP </string><key>url</key><string>http://mp3lg.tdf-cdn.com/fip/all/fiphautdebit.mp3</string><key>desc</key><string>Radio FIP </string><key>country</key><string>France </string><key>city</key><string>Paris </string><key>website</key><string>http://www.fipradio.fr</string></dict>
+<key>station-3242</key><dict><key>guid</key><string>3242</string><key>name</key><string>FIP </string><key>url</key><string>http://www.listenlive.eu/fip128.m3u</string><key>desc</key><string>Radio FIP </string><key>country</key><string>France </string><key>city</key><string>Paris </string><key>website</key><string>http://www.fipradio.fr</string></dict>
 <key>station-3243</key><dict><key>guid</key><string>3243</string><key>name</key><string>Radio Capital </string><key>url</key><string>http://mp3.kataweb.it:8000/CAPITAL</string><key>desc</key><string>Popular music</string><key>country</key><string>Italy</string><key>city</key><string>Rome</string><key>website</key><string>http://www.capital.it/capital/home</string></dict>
 <key>station-3244</key><dict><key>guid</key><string>3244</string><key>name</key><string>KQED Public media for Northern CA</string><key>url</key><string>http://streams.kqed.org/kqedradio.m3u</string><key>desc</key><string>Public Radio</string><key>country</key><string>USA</string><key>city</key><string>San Francisco</string><key>website</key><string>http://http://www.kqed.org</string></dict>
 <key>station-3245</key><dict><key>guid</key><string>3245</string><key>name</key><string>CKUA</string><key>url</key><string>http://ckua.streamon.fm/listen.m3u</string><key>desc</key><string>Listener Supported Community Radio</string><key>country</key><string>USA</string><key>city</key><string>Edmonton</string><key>website</key><string>http://www.ckua.com</string></dict>
@@ -378,97 +379,3 @@
 
 
 </dict></plist>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
