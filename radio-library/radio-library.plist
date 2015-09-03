@@ -313,6 +313,9 @@
 <key>station-3328</key><dict><key>guid</key><string>3328</string><key>name</key><string>WEEI</string><key>url</key><string>http://stream.abacast.net/playlist/entercom-weeifmaac-64.m3u</string><key>desc</key><string>Boston sports news</string><key>country</key><string>United States</string><key>city</key><string>Boston</string><key>website</key><string>http://www.weei.com/</string></dict>
 <key>station-3329</key><dict><key>guid</key><string>3329</string><key>name</key><string>Radio New Zealand Concert</string><key>url</key><string>http://radionz-ice.streamguys.com/concert.mp3</string><key>desc</key><string>Classical</string><key>country</key><string>New Zealand</string><key>city</key><string>Wellington</string><key>website</key><string>http://www.radionz.co.nz/concert</string></dict>
 <key>station-3330</key><dict><key>guid</key><string>3330</string><key>name</key><string>Talksport</string><key>url</key><string>http://www.radiofeeds.co.uk/talksport.m3u</string><key>desc</key><string>Sports</string><key>country</key><string>United Kingdom</string><key>city</key><string></string><key>website</key><string>http://talksport.com</string></dict>
+<key>station-3331</key><dict><key>guid</key><string>3331</string><key>name</key><string>Clyde 1</string><key>url</key><string>http://tx.whatson.com/http_live_bauer.php?i=clyde1.aac</string><key>desc</key><string>Top 40</string><key>country</key><string>United Kingdom</string><key>city</key><string>Glasgow</string><key>website</key><string></string></dict>
+
+
 
 
 
