@@ -304,9 +304,9 @@
 <key>station-3319</key><dict><key>guid</key><string>3319</string><key>name</key><string>KKOH</string><key>url</key><string>http://provisioning.streamtheworld.com/pls/kkoham.pls</string><key>desc</key><string>News, talk</string><key>country</key><string>United States</string><key>city</key><string>Reno</string><key>website</key><string></string></dict>
 <key>station-3320</key><dict><key>guid</key><string>3320</string><key>name</key><string>Hiper FM</string><key>url</key><string>http://109.71.41.250:8158/listen.pls</string><key>desc</key><string>Top 40</string><key>country</key><string>Portugal</string><key>city</key><string>Rio Maior</string><key>website</key><string>http://www.hiper.fm/</string></dict>
 <key>station-3321</key><dict><key>guid</key><string>3321</string><key>name</key><string>Liquid Live Radio</string><key>url</key><string>http://50.7.96.210:8315/autodj.m3u</string><key>desc</key><string>House Soul Hip Hop RnB Funk Jazz Latin</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string>http://liquidlive.net</string></dict>
-
-
-
+<key>station-3322</key><dict><key>guid</key><string>3322</string><key>name</key><string>Linn Radio</string><key>url</key><string>http://radio.linnrecords.com/cast/tunein.php/linnradio/playlist.pls</string><key>desc</key><string>Linn contemporary catalogue selection</string><key>country</key><string>United Kingdom</string><key>city</key><string>Glasgow</string><key>website</key><string>http://radio.linnrecords.com/</string></dict>
+<key>station-3323</key><dict><key>guid</key><string>3323</string><key>name</key><string>Linn Jazz</string><key>url</key><string>http://radio.linnrecords.com/cast/tunein.php/linnjazz/playlist.pls</string><key>desc</key><string>Linn jazz catalogue selection</string><key>country</key><string>United Kingdom</string><key>city</key><string>Glasgow</string><key>website</key><string>http://radio.linnrecords.com/</string></dict>
+<key>station-3324</key><dict><key>guid</key><string>3324</string><key>name</key><string>Linn Classical</string><key>url</key><string>http://radio.linnrecords.com/cast/tunein.php/linnclassical/playlist.pls</string><key>desc</key><string>Linn classical catalogue selection</string><key>country</key><string>United Kingdom</string><key>city</key><string>Glasgow</string><key>website</key><string>http://radio.linnrecords.com/</string></dict>
 
 
 
