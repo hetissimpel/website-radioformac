@@ -320,7 +320,18 @@
 <key>station-3335</key><dict><key>guid</key><string>3335</string><key>name</key><string>Le Mouv'</string><key>url</key><string>http://audio.scdn.arkena.com/11014/mouv-midfi128.mp3</string><key>desc</key><string>Music - Entertainment (teenager public)</string><key>country</key><string>France</string><key>city</key><string>National</string><key>website</key><string>http://www.radiofrance.fr/</string></dict>
 <key>station-3336</key><dict><key>guid</key><string>3336</string><key>name</key><string>Jazz FM</string><key>url</key><string>http://tx.sharp-stream.com/icecast.php?i=jazzfmmobile.mp3</string><key>desc</key><string>Jazz</string><key>country</key><string>United Kingdom</string><key>city</key><string>United Kingdom</string><key>website</key><string>http://www.jazzfm.com/</string></dict>
 <key>station-3337</key><dict><key>guid</key><string>3337</string><key>name</key><string>BBC Norfolk</string><key>url</key><string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_norfolk/format/pls.pls</string><key>desc</key><string>Local station</string><key>country</key><string>United Kingdom</string><key>city</key><string>Norwich</string><key>website</key><string>http://www.bbc.co.uk/radionorfolk</string></dict>
-<key>station-3338</key><dict><key>guid</key><string>3338</string><key>name</key><string>Radio Drenthe</string><key>url</key><string>http://stream.rtvdrenthe.nl:9001/RTVRadio.m3u</string><key>desc</key><string>Local station</string><key>country</key><string>Nederland</string><key>city</key><string>Assen</string><key>website</key><string>http://www.rtvdrenthe.nl</string></dict>
+<key>station-3338</key><dict><key>guid</key><string>3338</string><key>name</key><string>Radio Drenthe</string><key>url</key><string>http://stream.rtvdrenthe.nl:9001/RTVRadio.m3u</string><key>desc</key><string>Local station</string><key>country</key><string>Netherlands</string><key>city</key><string>Assen</string><key>website</key><string>http://www.rtvdrenthe.nl</string></dict>
+<key>station-3339</key><dict><key>guid</key><string>3339</string><key>name</key><string>Reformatorische Omroep RO 1</string><key>url</key><string>http://media01.streampartner.nl:8003/live</string><key>desc</key><string>Christian station</string><key>country</key><string>Netherlands</string><key>city</key><string>Nijkerk</string><key>website</key><string>http://www.reformatorischeomroep.nl</string></dict>
+<key>station-3340</key><dict><key>guid</key><string>3340</string><key>name</key><string>Reformatorische Omroep RO 2</string><key>url</key><string>http://media02.streampartner.nl:8020/live</string><key>desc</key><string>Christian station</string><key>country</key><string>Netherlands</string><key>city</key><string>Nijkerk</string><key>website</key><string>http://www.reformatorischeomroep.nl</string></dict>
+
+
+
+
+
+
+
+
+
 
 
 <key>station-22</key><dict><key>guid</key><string>22</string><key>name</key><string>NewsTalk 106-108</string><key>url</key><string>http://communicorp.mp3.miisolutions.net:8000/communicorp/Newstalk_low.m3u</string><key>desc</key><string>News/Talk</string><key>country</key><string>Ireland</string><key>city</key><string>Dublin</string><key>website</key><string>http://www.newstalk.ie/</string></dict>
