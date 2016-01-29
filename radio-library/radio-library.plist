@@ -328,7 +328,7 @@
 <key>station-3343</key><dict><key>guid</key><string>3343</string><key>name</key><string>Max</string><key>url</key><string>http://mp3streaming.planetwideradio.com:9230/2zy.m3u</string><key>desc</key><string>Adult Contemporary</string><key>country</key><string>United Kingdom</string><key>city</key><string>Manchester</string><key>website</key><string>http://www.thisismax.co.uk/</string></dict>
 <key>station-3344</key><dict><key>guid</key><string>3344</string><key>name</key><string>TLV1 Radio</string><key>url</key><string>http://server1.live1.co.il:8008/tlv1.mp3</string><key>desc</key><string>Israeli news, culture, politics, music, and business</string><key>country</key><string>Israel</string><key>city</key><string>Tel Aviv</string><key>website</key><string>http://tlv1.fm</string></dict>
 <key>station-3345</key><dict><key>guid</key><string>3345</string><key>name</key><string>Radio Continu</string><key>url</key><string>http://radiocontinu.ic-stream.nl/listen.pls</string><key>desc</key><string>Altijd gezellig</string><key>country</key><string>Netherlands</string><key>city</key><string>Tweede Exloermond</string><key>website</key><string>http://www.radiocontinu.nl</string></dict>
-
+<key>station-3346</key><dict><key>guid</key><string>3346</string><key>name</key><string>LBC</string><key>url</key><string>http://media-ice.musicradio.com/LBCLondon.m3u</string><key>desc</key><string>Talk</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string>http://www.lbc.co.uk</string></dict>
 
 
 
