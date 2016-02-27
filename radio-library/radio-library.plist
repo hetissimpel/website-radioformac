@@ -332,7 +332,7 @@
 <key>station-3347</key><dict><key>guid</key><string>3347</string><key>name</key><string>The Breeze (Newbury)</string><key>url</key><string>http://stream4.radiomonitor.com/Breeze-Newbury-128.m3u</string><key>desc</key><string>Adult Contemporary</string><key>country</key><string>United Kingdom</string><key>city</key><string>Newbury</string><key>website</key><string>http://www.thebreeze.com/newbury</string></dict>
 <key>station-3348</key><dict><key>guid</key><string>3348</string><key>name</key><string>BBC Radio Lincolnshire</string><key>url</key><string>http://www.radiofeeds.co.uk/bbcradiolincolnshire2.pls</string><key>desc</key><string>Talk - Music</string><key>country</key><string>United Kingdom</string><key>city</key><string>Lincolnshire</string><key>website</key><string>http://www.bbc.co.uk/radiolincolnshire</string></dict>
 <key>station-3349</key><dict><key>guid</key><string>3349</string><key>name</key><string>Smooth East Midlands</string><key>url</key><string>http://media-ice.musicradio.com/SmoothEastMidsMP3.m3u</string><key>desc</key><string>Soul and RandB</string><key>country</key><string>United Kingdom</string><key>city</key><string>Nottingham</string><key>website</key><string>http://www.smoothradio.com/eastmids/</string></dict>
-
+<key>station-3350</key><dict><key>guid</key><string>3350</string><key>name</key><string>BBC Guernsey</string><key>url</key><string>http://www.radiofeeds.co.uk/bbcradioguernsey1.pls</string><key>desc</key><string></string><key>country</key><string>United Kingdom</string><key>city</key><string>Guernsey</string><key>website</key><string></string></dict>
 
 
 
