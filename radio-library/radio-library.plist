@@ -354,6 +354,7 @@
 <key>station-3369</key><dict><key>guid</key><string>3369</string><key>name</key><string>DR P8 Jazz</string><key>url</key><string>http://live-icy.gss.dr.dk:8000/A/A22H.mp3.m3u</string><key>desc</key><string>Jazz</string><key>country</key><string>Denmark</string><key>city</key><string>Copenhagen</string><key>website</key><string>http://www.dr.dk/radio/kanaler/</string></dict>
 <key>station-3370</key><dict><key>guid</key><string>3370</string><key>name</key><string>DR Ramasjang</string><key>url</key><string>http://live-icy.gss.dr.dk:8000/A/A24H.mp3.m3u</string><key>desc</key><string>Children's programmes</string><key>country</key><string>Denmark</string><key>city</key><string>Copenhagen</string><key>website</key><string>http://www.dr.dk/radio/kanaler/</string></dict>
 <key>station-3371</key><dict><key>guid</key><string>3371</string><key>name</key><string>DR Nyheder</string><key>url</key><string>http://live-icy.gss.dr.dk:8000/A/A02H.mp3.m3u</string><key>desc</key><string>News</string><key>country</key><string>Denmark</string><key>city</key><string>Copenhagen</string><key>website</key><string>http://www.dr.dk/radio/kanaler/</string></dict>
+<key>station-3372</key><dict><key>guid</key><string>3372</string><key>name</key><string>181.fm the Buzz (Alt Rock)</string><key>url</key><string>http://icyrelay.181.fm/181-buzz_128k.mp3</string><key>desc</key><string>Your Lifestyle, Your Music!</string><key>country</key><string>United States</string><key>city</key><string>Waynesboro</string><key>website</key><string>http://www.181.fm</string></dict>
 
 
 
@@ -440,6 +441,54 @@
 <key>station-2631</key><dict><key>guid</key><string>2631</string><key>name</key><string>106 Sam FM (South Coast)</string><key>url</key><string>http://stream2.radiomonitor.com/SamFMSouthCoast-128.m3u</string><key>desc</key><string>Variety rock</string><key>country</key><string>United Kingdom</string><key>city</key><string>Southampton</string><key>website</key><string>http://www.jackradio.com/</string></dict>
 <key>station-2632</key><dict><key>guid</key><string>2632</string><key>name</key><string>107 Sam FM (Swindon)</string><key>url</key><string>http://stream2.radiomonitor.com/SamFMSwindon-128.m3u</string><key>desc</key><string>Variety rock</string><key>country</key><string>United Kingdom</string><key>city</key><string>Swindon</string><key>website</key><string>http://www.jackfmswindon.com/</string></dict>
 <key>station-2842</key><dict><key>guid</key><string>2842</string><key>name</key><string>KEXP</string><key>url</key><string>http://live-mp3-128.kexp.org:8000/listen.pls</string><key>desc</key><string>Alternative Rock/Indie</string><key>country</key><string>USA</string><key>city</key><string>Seattle Washington</string><key>website</key><string>http://www.kexp.org/</string></dict>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </dict></plist>
