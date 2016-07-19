@@ -356,6 +356,23 @@
 <key>station-3371</key><dict><key>guid</key><string>3371</string><key>name</key><string>DR Nyheder</string><key>url</key><string>http://live-icy.gss.dr.dk:8000/A/A02H.mp3.m3u</string><key>desc</key><string>News</string><key>country</key><string>Denmark</string><key>city</key><string>Copenhagen</string><key>website</key><string>http://www.dr.dk/radio/kanaler/</string></dict>
 <key>station-3372</key><dict><key>guid</key><string>3372</string><key>name</key><string>181.fm the Buzz (Alt Rock)</string><key>url</key><string>http://icyrelay.181.fm/181-buzz_128k.mp3</string><key>desc</key><string>Your Lifestyle, Your Music!</string><key>country</key><string>United States</string><key>city</key><string>Waynesboro</string><key>website</key><string>http://www.181.fm</string></dict>
 <key>station-3373</key><dict><key>guid</key><string>3373</string><key>name</key><string>Virgin Radio UK</string><key>url</key><string>http://www.radiofeeds.co.uk/wgvirginradio.m3u</string><key>desc</key><string>New music, old favourites and some of the biggest guests in the world of entertainment</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string>http://virginradio.co.uk/</string></dict>
+<key>station-3374</key><dict><key>guid</key><string>3374</string><key>name</key><string>Wayne FM 93.7</string><key>url</key><string>http://14223.live.streamtheworld.com:80/CKWYFMAAC_SC</string><key>desc</key><string>Mix</string><key>country</key><string>United States</string><key>city</key><string>Wainwright</string><key>website</key><string>http://www.waynefm.com</string></dict>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
