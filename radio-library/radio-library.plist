@@ -365,7 +365,7 @@
 <key>station-3380</key><dict><key>guid</key><string>3380</string><key>name</key><string>YLE Radio Vega Österbotten</string><key>url</key><string>mms://mediau.yle.fi/a_vegaosterbotten</string><key>desc</key><string>Regional service (in Swedish)</string><key>country</key><string>Finland</string><key>city</key><string>Vasa</string><key>website</key><string>http://www.radiovega.fi/</string></dict>
 <key>station-3381</key><dict><key>guid</key><string>3381</string><key>name</key><string>YLE Radio Vega Östnyland</string><key>url</key><string>mms://mediau.yle.fi/a_vegaost</string><key>desc</key><string>Regional service (in Swedish)</string><key>country</key><string>Finland</string><key>city</key><string>Borgå</string><key>website</key><string>http://www.radiovega.fi/</string></dict>
 <key>station-3382</key><dict><key>guid</key><string>3382</string><key>name</key><string>Flux FM</string><key>url</key><string>http://streams.fluxfm.de/live/mp3-320/audio/</string><key>desc</key><string>Die Alternative im Radio</string><key>country</key><string>Germany</string><key>city</key><string> Berlin</string><key>website</key><string>http://www.fluxfm.de/</string></dict>
-
+<key>station-3383</key><dict><key>guid</key><string>3383</string><key>name</key><string>UK Mondo</string><key>url</key><string>http://50.7.71.219:7151/stream.m3u</string><key>desc</key><string>Electronic</string><key>country</key><string>United Kingdom</string><key>city</key><string>Sheffield</string><key>website</key><string>http://ukmondo.com/</string></dict>
 
 
 
