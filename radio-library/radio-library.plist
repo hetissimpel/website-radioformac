@@ -381,7 +381,7 @@
 <key>station-3396</key><dict><key>guid</key><string>3396</string><key>name</key><string>France Bleu Paris</string><key>url</key><string>http://direct.francebleu.fr/live/fb1071-midfi.mp3</string><key>desc</key><string>Regional service</string><key>country</key><string>France</string><key>city</key><string>Paris</string><key>website</key><string></string></dict>
 <key>station-3397</key><dict><key>guid</key><string>3397</string><key>name</key><string>France Bleu Saint-Etienne Loire</string><key>url</key><string>http://direct.francebleu.fr/live/fbstetienne-midfi.mp3</string><key>desc</key><string>Regional service</string><key>country</key><string>France</string><key>city</key><string>Saint-Etienne Loire</string><key>website</key><string></string></dict>
 <key>station-3398</key><dict><key>guid</key><string>3398</string><key>name</key><string>RMC Hits</string><key>url</key><string>http://icy.unitedradio.it/RmcHits.mp3</string><key>desc</key><string>Hits</string><key>country</key><string>Italy</string><key>city</key><string>Milan</string><key>website</key><string></string></dict>
-
+<key>station-3399</key><dict><key>guid</key><string>3399</string><key>name</key><string>The Edge</string><key>url</key><string>http://live.leanstream.co/CFNYFM-MP3</string><key>desc</key><string>Modern Rock</string><key>country</key><string>Canada</string><key>city</key><string>Toronto</string><key>website</key><string>http://www.edge.ca/</string></dict>
 
 
 
