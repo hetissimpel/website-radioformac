@@ -391,7 +391,7 @@
 <key>station-3406</key><dict><key>guid</key><string>3406</string><key>name</key><string>Radio Subasio</string><key>url</key><string>http://onair18.xdevel.com:8152</string><key>desc</key><string></string><key>country</key><string>Italy</string><key>city</key><string></string><key>website</key><string></string></dict>
 <key>station-3407</key><dict><key>guid</key><string>3407</string><key>name</key><string>Radio Subasio +</string><key>url</key><string>http://onair11.xdevel.com:8050</string><key>desc</key><string></string><key>country</key><string>Italy</string><key>city</key><string></string><key>website</key><string></string></dict>
 <key>station-3408</key><dict><key>guid</key><string>3408</string><key>name</key><string>RDS</string><key>url</key><string>http://www.rds.it:8000/stream</string><key>desc</key><string></string><key>country</key><string>Italy</string><key>city</key><string></string><key>website</key><string></string></dict>
-
+<key>station-3409</key><dict><key>guid</key><string>3409</string><key>name</key><string>talkRADIO</string><key>url</key><string>http://www.radiofeeds.co.uk/wgtalkradio.m3u</string><key>desc</key><string></string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string>http://talkradio.co.uk</string></dict>
 
 
 
