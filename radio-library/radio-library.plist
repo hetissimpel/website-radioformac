@@ -393,8 +393,8 @@
 <key>station-3408</key><dict><key>guid</key><string>3408</string><key>name</key><string>RDS</string><key>url</key><string>http://www.rds.it:8000/stream</string><key>desc</key><string></string><key>country</key><string>Italy</string><key>city</key><string></string><key>website</key><string></string></dict>
 <key>station-3409</key><dict><key>guid</key><string>3409</string><key>name</key><string>talkRADIO</string><key>url</key><string>http://www.radiofeeds.co.uk/wgtalkradio.m3u</string><key>desc</key><string></string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string>http://talkradio.co.uk</string></dict>
 <key>station-3410</key><dict><key>guid</key><string>3410</string><key>name</key><string>BBC Radio Ulster</string><key>url</key><string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p</string><key>desc</key><string>Community radio</string><key>country</key><string>United Kingdom</string><key>city</key><string>Belfast</string><key>website</key><string>http://www.bbc.co.uk/radioulster</string></dict>
-<key>station-3411</key><dict><key>guid</key><string>3411</string><key>name</key><string>Omrop Fryslan</string><key>url</key><string>http://www.omropfryslan.nl/radio.m3u</string><key>desc</key><string></string><key>country</key><string>Netherlands</string><key>city</key><string>Regional public radio</string><key>website</key><string></string></dict>
-
+<key>station-3411</key><dict><key>guid</key><string>3411</string><key>name</key><string>Omrop Fryslan</string><key>url</key><string>http://www.omropfryslan.nl/radio.m3u</string><key>desc</key><string>Regional public radio</string><key>country</key><string>Netherlands</string><key>city</key><string></string><key>website</key><string></string></dict>
+<key>station-3412</key><dict><key>guid</key><string>3412</string><key>name</key><string>WMSE 91.7</string><key>url</key><string>http://www.wmse.org/wmse128kMP3.pls</string><key>desc</key><string>Milwaukee School of Engineering</string><key>country</key><string>United States</string><key>city</key><string>Milwaukee</string><key>website</key><string>http://www.wmse.org</string></dict>
 
 
 
@@ -553,7 +553,6 @@
 <key>station-2631</key><dict><key>guid</key><string>2631</string><key>name</key><string>106 Sam FM (South Coast)</string><key>url</key><string>http://stream2.radiomonitor.com/SamFMSouthCoast-128.m3u</string><key>desc</key><string>Variety rock</string><key>country</key><string>United Kingdom</string><key>city</key><string>Southampton</string><key>website</key><string>http://www.jackradio.com/</string></dict>
 <key>station-2632</key><dict><key>guid</key><string>2632</string><key>name</key><string>107 Sam FM (Swindon)</string><key>url</key><string>http://stream2.radiomonitor.com/SamFMSwindon-128.m3u</string><key>desc</key><string>Variety rock</string><key>country</key><string>United Kingdom</string><key>city</key><string>Swindon</string><key>website</key><string>http://www.jackfmswindon.com/</string></dict>
 <key>station-2842</key><dict><key>guid</key><string>2842</string><key>name</key><string>KEXP</string><key>url</key><string>http://live-mp3-128.kexp.org:8000/listen.pls</string><key>desc</key><string>Alternative Rock/Indie</string><key>country</key><string>USA</string><key>city</key><string>Seattle Washington</string><key>website</key><string>http://www.kexp.org/</string></dict>
-
 
 
 
