@@ -396,6 +396,9 @@
 <key>station-3411</key><dict><key>guid</key><string>3411</string><key>name</key><string>Omrop Fryslan</string><key>url</key><string>http://www.omropfryslan.nl/radio.m3u</string><key>desc</key><string>Regional public radio</string><key>country</key><string>Netherlands</string><key>city</key><string></string><key>website</key><string></string></dict>
 <key>station-3412</key><dict><key>guid</key><string>3412</string><key>name</key><string>WMSE 91.7</string><key>url</key><string>http://www.wmse.org/wmse128kMP3.pls</string><key>desc</key><string>Milwaukee School of Engineering</string><key>country</key><string>United States</string><key>city</key><string>Milwaukee</string><key>website</key><string>http://www.wmse.org</string></dict>
 <key>station-3413</key><dict><key>guid</key><string>3413</string><key>name</key><string>VALE RADIO</string><key>url</key><string>http://178.62.113.227:8000/test2</string><key>desc</key><string>Real Music Variety</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string></string></dict>
+<key>station-3414</key><dict><key>guid</key><string>3414</string><key>name</key><string>WMMT</string><key>url</key><string>http://slc-01.shoutcastcity.com:2199/tunein/appalsho.pls</string><key>desc</key><string>Mountain Community Radio</string><key>country</key><string>United States</string><key>city</key><string>Whitesburg</string><key>website</key><string></string></dict>
+
+
 
 
 <key>station-22</key><dict><key>guid</key><string>22</string><key>name</key><string>NewsTalk 106-108</string><key>url</key><string>http://communicorp.mp3.miisolutions.net:8000/communicorp/Newstalk_low.m3u</string><key>desc</key><string>News/Talk</string><key>country</key><string>Ireland</string><key>city</key><string>Dublin</string><key>website</key><string>http://www.newstalk.ie/</string></dict>
