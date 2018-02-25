@@ -402,7 +402,7 @@
 <key>station-3417</key><dict><key>guid</key><string>3417</string><key>name</key><string>RadioSpiral</string><key>url</key><string>http://radio.radiospiral.net:8000/stream.mp3</string><key>desc</key><string>Captivating electronica, from deep ambient to the experimental</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string>http://radiospiral.net</string></dict>
 <key>station-3418</key><dict><key>guid</key><string>3418</string><key>name</key><string>The UK 1940s Radio Station</string><key>url</key><string>http://149.255.59.162:8062/1</string><key>desc</key><string>1920s, 1930s and 1940s Music and original vintage radio shows</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string></string></dict>
 <key>station-3419</key><dict><key>guid</key><string>3419</string><key>name</key><string>Capital XTRA</string><key>url</key><string>http://media-ice.musicradio.com/CapitalXTRALondon.m3u</string><key>desc</key><string>Urban dance music station</string><key>country</key><string>United Kingdom</string><key>city</key><string>London</string><key>website</key><string></string></dict>
-
+<key>station-3420</key><dict><key>guid</key><string>3420</string><key>name</key><string>Cliff Richard Radio NZ</string><key>url</key><string>http://s9.voscast.com:8032</string><key>desc</key><string>24/7 Cliff Richard</string><key>country</key><string>New Zealand</string><key>city</key><string></string><key>website</key><string></string></dict>
 
 
 
