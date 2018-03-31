@@ -566,7 +566,7 @@
 <key>station-2631</key><dict><key>guid</key><string>2631</string><key>name</key><string>106 Sam FM (South Coast)</string><key>url</key><string>http://stream2.radiomonitor.com/SamFMSouthCoast-128.m3u</string><key>desc</key><string>Variety rock</string><key>country</key><string>United Kingdom</string><key>city</key><string>Southampton</string><key>website</key><string>http://www.jackradio.com/</string></dict>
 <key>station-2632</key><dict><key>guid</key><string>2632</string><key>name</key><string>107 Sam FM (Swindon)</string><key>url</key><string>http://stream2.radiomonitor.com/SamFMSwindon-128.m3u</string><key>desc</key><string>Variety rock</string><key>country</key><string>United Kingdom</string><key>city</key><string>Swindon</string><key>website</key><string>http://www.jackfmswindon.com/</string></dict>
 <key>station-2842</key><dict><key>guid</key><string>2842</string><key>name</key><string>KEXP</string><key>url</key><string>http://live-mp3-128.kexp.org:8000/listen.pls</string><key>desc</key><string>Alternative Rock/Indie</string><key>country</key><string>USA</string><key>city</key><string>Seattle Washington</string><key>website</key><string>http://www.kexp.org/</string></dict>
-
+<key>station-2862</key><dict><key>guid</key><string>2862</string><key>name</key><string>WBGO - Jazz 88 </string><key>url</key><string>http://wbgo.streamguys.net/wbgo</string><key>desc</key><string>Jazz</string><key>country</key><string>USA</string><key>city</key><string>Newark New Jersey</string><key>website</key><string>http://www.wbgo.org/</string></dict>
 
 
 
