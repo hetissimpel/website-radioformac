@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict>
 <key>station-3018</key><dict><key>guid</key><string>3018</string><key>name</key><string>Intergalactic Classix</string><key>url</key><string>http://radio.intergalacticfm.com/2.m3u</string><key>desc</key><string>Electronic</string><key>country</key><string>Internet</string><key>city</key><string>Internet</string><key>website</key><string>https://intergalacticfm.com/intergalactic_classix.php</string></dict>
 <key>station-3019</key><dict><key>guid</key><string>3019</string><key>name</key><string>Radio Galaxia</string><key>url</key><string>http://radio.intergalacticfm.com/3.m3u</string><key>desc</key><string>Electronic</string><key>country</key><string>Internet</string><key>city</key><string>Internet</string><key>website</key><string>https://intergalacticfm.com/radio_galaxia.php</string></dict>
